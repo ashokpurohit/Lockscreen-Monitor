@@ -1,0 +1,5 @@
+# Android Working with Lock Screen and Device Administration API
+
+Device Administration API is an amazing administration feature at the system level which allows to create security applications that are useful in rich control over devices and settings that are powered by Android. Almost all Security Android Application such as Avast! Mobile Security, Avira Antivirus Security, Lookout Security & Antivirus etc. depending on the permissions and feature provided under Android Device Administration API. Android Device Manager is a Google app that also uses device administration API which allows to track and secure devices remotely and perform many other operations like Erase Data, Change Screen-Unlock Password as well as Lock the screen.
+
+In this tutorials, we’ll learn how to implement android application working with the Lock screen and Device Administration API. So we will add some features in this application that will detect the wrong attempt of password or pattern lock on your device. If password attempt is right then toast will appear “welcome Device Owner” and on wrong attempt, your mobile will Vibrate.
